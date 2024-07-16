@@ -6,6 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/StarRider/Scence/game_strat.unity
+    guid: b7c03c3f88b213541aca86a189e905ba
+  - enabled: 1
+    path: Assets/StarRider/Scence/roby.unity
+    guid: a424ef29a54fa844fbd5c08f9cbcf680
+  - enabled: 1
+    path: Assets/StarRider/Scence/game.unity
+    guid: c18ed7615860071488c096935d2039d8
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
