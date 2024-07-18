@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &9049465491433641442
+--- !u!1 &8469359430798469074
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,9 +8,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 5249754061358468772}
-  - component: {fileID: 7922442050861875851}
-  - component: {fileID: 2127304013681660928}
+  - component: {fileID: 5748050562086005735}
+  - component: {fileID: 2019802234245436747}
+  - component: {fileID: 2770445744692531011}
   m_Layer: 5
   m_Name: win
   m_TagString: Untagged
@@ -18,40 +18,40 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &5249754061358468772
+--- !u!224 &5748050562086005735
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9049465491433641442}
+  m_GameObject: {fileID: 8469359430798469074}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8752, y: 1.8752, z: 1.8752}
+  m_LocalScale: {x: 0.27238676, y: 0.28137553, z: 0.27238676}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 278, y: 76}
+  m_AnchoredPosition: {x: 29, y: 189}
+  m_SizeDelta: {x: 1740, y: 694}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &7922442050861875851
+--- !u!222 &2019802234245436747
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9049465491433641442}
+  m_GameObject: {fileID: 8469359430798469074}
   m_CullTransparentMesh: 1
---- !u!114 &2127304013681660928
+--- !u!114 &2770445744692531011
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9049465491433641442}
+  m_GameObject: {fileID: 8469359430798469074}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1623683148, guid: f1a1704c172b8fc4b9446c41ce5ce5c3, type: 3}
+  m_Sprite: {fileID: -1788852997, guid: 2279ad2f48a4a1a47bba5be83e24ca5f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

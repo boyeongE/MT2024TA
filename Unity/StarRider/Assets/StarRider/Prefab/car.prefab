@@ -24,13 +24,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3635174452941416672}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.23510633, y: 0.01696292, z: -0.0041037626, w: -0.971813}
-  m_LocalPosition: {x: -0.79, y: 0.45, z: -1.8}
+  m_LocalRotation: {x: -0.24247766, y: 0.016931273, z: -0.0042324285, w: -0.96999997}
+  m_LocalPosition: {x: -0.71, y: 3.99, z: -5.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2171975497177631236}
-  m_LocalEulerAnglesHint: {x: 27.2, y: -362, z: 0}
+  m_LocalEulerAnglesHint: {x: 28.07, y: -362, z: 0}
 --- !u!1 &5693046680578614254
 GameObject:
   m_ObjectHideFlags: 0
@@ -157,8 +157,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"TimeUI","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"gauge","value":{"$content":3.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 0}
 --- !u!114 &7365301488803511191
 MonoBehaviour:
   m_ObjectHideFlags: 0
