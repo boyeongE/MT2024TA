@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_fence
-  m_Shader: {fileID: -6465566751694194690, guid: b2df8cec18ade59468633162b6ecde6d,
+  m_Name: M_fence_2
+  m_Shader: {fileID: -6465566751694194690, guid: 98ca645d269eca240a7984a7399cfeb8,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -30,10 +30,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_6b758d243c5649558ed68a8eddf8e92e_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 51b5bb8fe25369f4485d7c4f5002a8c3, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_cc23c4c799144cacab4f291a6e7228f9_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 51b5bb8fe25369f4485d7c4f5002a8c3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -59,10 +55,10 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.06608219, g: 0.15093046, b: 0.9339623, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &7037915735759840637
+--- !u!114 &4054403041280280956
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
