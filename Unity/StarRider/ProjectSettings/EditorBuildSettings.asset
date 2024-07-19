@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/StarRider/Scence/roby.unity
     guid: a424ef29a54fa844fbd5c08f9cbcf680
   - enabled: 1
-    path: Assets/StarRider/Scence/game.unity
-    guid: c18ed7615860071488c096935d2039d8
+    path: Assets/StarRider/Scence/game_v003.unity
+    guid: ce5a11afc1192fa408eb29dc6ddf2dd5
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
