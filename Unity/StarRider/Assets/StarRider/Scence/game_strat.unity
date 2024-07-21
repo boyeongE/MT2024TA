@@ -350,11 +350,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ReferenceResolution: {x: 2560, y: 1600}
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -373,7 +373,7 @@ Canvas:
   m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
-  m_PixelPerfect: 0
+  m_PixelPerfect: 1
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
@@ -813,6 +813,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3817932964917956057, guid: 7b14da57c58c992429fcf5c567ac5fed,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.8189526
+      objectReference: {fileID: 0}
+    - target: {fileID: 3817932964917956057, guid: 7b14da57c58c992429fcf5c567ac5fed,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.6135545
+      objectReference: {fileID: 0}
+    - target: {fileID: 3817932964917956057, guid: 7b14da57c58c992429fcf5c567ac5fed,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5.276934
+      objectReference: {fileID: 0}
+    - target: {fileID: 3817932964917956057, guid: 7b14da57c58c992429fcf5c567ac5fed,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -854,7 +869,7 @@ PrefabInstance:
     - target: {fileID: 3817932964917956057, guid: 7b14da57c58c992429fcf5c567ac5fed,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -303
+      value: -420
       objectReference: {fileID: 0}
     - target: {fileID: 3817932964917956057, guid: 7b14da57c58c992429fcf5c567ac5fed,
         type: 3}
@@ -936,8 +951,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9137149399275260484, guid: d3d194ff1ed7c11449d6595f1da17ac1,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.347469
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137149399275260484, guid: d3d194ff1ed7c11449d6595f1da17ac1,
+        type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.99412537
+      value: 1.4848946
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137149399275260484, guid: d3d194ff1ed7c11449d6595f1da17ac1,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.347469
       objectReference: {fileID: 0}
     - target: {fileID: 9137149399275260484, guid: d3d194ff1ed7c11449d6595f1da17ac1,
         type: 3}
@@ -977,12 +1002,12 @@ PrefabInstance:
     - target: {fileID: 9137149399275260484, guid: d3d194ff1ed7c11449d6595f1da17ac1,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -959.6
+      value: -1293.2
       objectReference: {fileID: 0}
     - target: {fileID: 9137149399275260484, guid: d3d194ff1ed7c11449d6595f1da17ac1,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -535.83
+      value: -800.86
       objectReference: {fileID: 0}
     - target: {fileID: 9137149399275260484, guid: d3d194ff1ed7c11449d6595f1da17ac1,
         type: 3}
